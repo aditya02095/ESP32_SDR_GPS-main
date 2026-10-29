@@ -1,0 +1,2 @@
+source /home/aditya/workspace/ESP32_SDR_GPS-main/build/bootloader/gdbinit/symbols
+source /home/aditya/workspace/ESP32_SDR_GPS-main/build/bootloader/gdbinit/connect
